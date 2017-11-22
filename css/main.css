@@ -1,3 +1,5 @@
+/* Establece las condiiones de la pantalla y el body*/
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -21,6 +23,9 @@ body {
     padding: 0 auto;
     
 }
+
+
+/*Elaborando barra de navegación*/
     
 
 header {
@@ -63,6 +68,9 @@ nav > a > .text {
 }
 
 
+/* Pantalla principal*/
+
+
 article.main {
 
     background: #18bc9c;
@@ -91,6 +99,8 @@ article.main {
 }
 
 
+/* Sección Portfolio*/
+
 
 section.portfolio {
 
@@ -113,6 +123,9 @@ section.portfolio {
     padding: 10px;
    
 }
+
+
+/*Sección About*/
 
 
 article.about {
@@ -179,6 +192,9 @@ button {
     
 }
 
+
+/* Sección de contacto con área de formulario*/
+
 .contact {
     
     background: white;
@@ -219,6 +235,9 @@ input, textarea {
     left: 195px;
 }
 
+
+/* Área de información. No supe cómo mostrar los iconos. Por cuestiones de tiempo tuve que recurrir a position para acomodar los textos, pero seguro hay maneras más eficientes de resolverlo*/
+
 .end h3{
     
     font-weight: bold;
@@ -258,7 +277,7 @@ input, textarea {
     
 }
 
-
+/*footer con copyright*/
 
 .copyright {
  
