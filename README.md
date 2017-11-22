@@ -6,7 +6,7 @@
  
  3. Elaborar el head, escribir el title y linkear correctamente las fuentes y el css.
  
- 4. Elaborar barra de navegación con un botón  de interacción a la izquierda.
+ 4. Elaborar barra de navegación con un botón  de interacción a la derecha.
  
  5. Elaborar pantalla principal con icono al frente.
  

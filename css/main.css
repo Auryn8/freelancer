@@ -263,8 +263,8 @@ input, textarea {
 .text-around {
     
     position: relative;
-    right: -250px;
-    bottom: 115px;
+    right: -400px;
+    bottom: 107px;
     
 }
 
@@ -273,8 +273,18 @@ input, textarea {
     
     position: relative;
     right: -861px;
-    bottom: 98px;
+    bottom: 152px;
     
+}
+
+/*Colocando iconos (no me dio tiempo de acomodarlos adecuadamente)*/
+
+.end > {
+    
+    display: inline-block;
+    position: relative;
+    left: 400;
+    bottom: 0;
 }
 
 /*footer con copyright*/
@@ -307,8 +317,8 @@ input, textarea {
 .content-about {
     
     position: relative;
-    bottom: 38px;
-    left: 500px;
+    bottom: 80px;
+    left: 678px;
     display: inline-block;
     
 }
